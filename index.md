@@ -4,8 +4,8 @@
 
 ### Python 
 
-[Madlibs test](/madlibs.md)
-[Pandas test](/pandas.md)
+-[Madlibs test](/madlibs.md)
+-[Pandas test](/pandas.md)
 
 
 ---
