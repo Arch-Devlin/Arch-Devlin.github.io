@@ -4,7 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br><br>
   I am me.
-  Second description 
+  <br><br>
+  Second description
+  <br><br>
   Me too.
   <br><br>
   <a href="https://www.linkedin.com/in/dominic-devlin-033b60227/">View My LinkedIn Profile</a> 
