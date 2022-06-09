@@ -9,7 +9,7 @@
 ---
 #### Earthquake magnitude analysis
 
-- [Earthquake magnitude analysis](/notebooks/earthquake.html)
+- [Earthquake magnitude analysis](notebooks/earthquake.html)
 - [Earthquake magnitude analysis presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
 
 
