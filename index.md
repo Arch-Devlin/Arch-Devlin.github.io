@@ -2,7 +2,7 @@
 
 ---
 
-### Python 
+### Data Science 
 
 [Madlibs test](/madlibs.md)
 <br>
