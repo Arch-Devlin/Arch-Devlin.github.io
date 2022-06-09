@@ -6,16 +6,15 @@
 
 [Tip Distribution](notebooks/pandas_first.html)
 
----
-#### Earthquake magnitude analysis
+###### Earthquake magnitude analysis
 
 - [Earthquake Magnitude Analysis](notebooks/earthquake.html)
 - [Earthquake Magnitude Analysis Presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
 
-
 ---
+### CS50x
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CS50x.png"/>
 
 ---
 
