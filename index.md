@@ -12,17 +12,20 @@
 - [Earthquake Magnitude Analysis Presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
 
 ---
-### CS50x
-[Project 3 Title](http://example.com/)
-<img src="images/CS50x.png"/>
-
----
 
 ### Python tests
 
 - [Madlibs test](/madlibs.md)
 
 - [Project 5 Title](http://example.com/)
+
+
+---
+
+### CS50x
+
+[Project 3 Title](http://example.com/)
+<img src="images/CS50x.png"/>
 
 ---
 
