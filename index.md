@@ -6,9 +6,11 @@
 
 [Pandas test](/pandas.md)
 
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+#### Earthquake magnitude analysis
+
+[Earthquake magnitude analysis]()
+[Earthquake magnitude analysis presentation](Analysis of Location and Depth on Earthquake Magnitude (1).pdf)
 
 
 ---
@@ -19,7 +21,7 @@
 
 ### Python tests
 
--[Madlibs test](/madlibs.md)
+- [Madlibs test](/madlibs.md)
 
 - [Project 5 Title](http://example.com/)
 
