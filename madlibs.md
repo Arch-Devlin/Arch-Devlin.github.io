@@ -1,6 +1,6 @@
 ## This can be your internal website page / project page
 
-**Project description:** Create madlids senario 
+**Project description:** Create madlibs senario 
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
