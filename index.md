@@ -4,13 +4,13 @@
 
 ### Data Science 
 
-[Pandas test](/pandas.md)
+[Tip Distribution](notebooks/pandas_first.html)
 
 ---
 #### Earthquake magnitude analysis
 
-- [Earthquake magnitude analysis](notebooks/earthquake.html)
-- [Earthquake magnitude analysis presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
+- [Earthquake Magnitude Analysis](notebooks/earthquake.html)
+- [Earthquake Magnitude Analysis Presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
 
 
 ---
