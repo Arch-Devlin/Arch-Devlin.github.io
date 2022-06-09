@@ -4,8 +4,6 @@
 
 ### Data Science 
 
-[Madlibs test](/madlibs.md)
-<br>
 [Pandas test](/pandas.md)
 
 
@@ -19,12 +17,10 @@
 
 ---
 
-### Category Name 2
+### Python tests
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+-[Madlibs test](/madlibs.md)
+
 - [Project 5 Title](http://example.com/)
 
 ---
