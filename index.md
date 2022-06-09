@@ -9,7 +9,7 @@
 ---
 #### Earthquake magnitude analysis
 
-- [Earthquake magnitude analysis](https://github.com/Arch-Devlin/Assignments/blob/755b249a757ee854f09fcbc9bfa28e48e2091358/test.ipynb)
+- [Earthquake magnitude analysis](/notebooks/earthquake.html)
 - [Earthquake magnitude analysis presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
 
 
