@@ -20,8 +20,6 @@
 
 - [Madlibs test](/madlibs.md)
 
-- [Project 5 Title](http://example.com/)
-
 
 ---
 
