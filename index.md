@@ -29,7 +29,8 @@
 
 <img src="images/CS50x.png"/>
 
-- [Week 1 - 6](https://github.com/Arch-Devlin/CS50x)
+- [Projects Repository](https://github.com/Arch-Devlin/CS50x)
+- [Final Project Repository](https://github.com/Arch-Devlin/CS50x_Final_Project)
 
 ---
 
