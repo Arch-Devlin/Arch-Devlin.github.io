@@ -6,10 +6,13 @@
 
 [Tip Distribution](notebooks/pandas_first.html)
 
+[Kaggle profile](https://www.kaggle.com/dominicdevlin)
+
 ###### Earthquake magnitude analysis
 
 - [Earthquake Magnitude Analysis](notebooks/earthquake.html)
 - [Earthquake Magnitude Analysis Presentation](pdf/Analysis of Location and Depth on Earthquake Magnitude.pdf)
+
 
 ---
 
