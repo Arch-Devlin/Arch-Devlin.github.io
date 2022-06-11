@@ -29,7 +29,7 @@
 
 <img src="images/CS50x.png"/>
 
-- [Project 5 Title](http://example.com/)
+- [Week 1 - 6](https://github.com/Arch-Devlin/CS50x)
 
 ---
 
