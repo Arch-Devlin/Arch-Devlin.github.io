@@ -24,8 +24,9 @@
 
 ### CS50x
 
-[Project 3 Title](http://example.com/)
 <img src="images/CS50x.png"/>
+
+- [Project 5 Title](http://example.com/)
 
 ---
 
