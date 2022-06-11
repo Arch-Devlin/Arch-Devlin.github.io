@@ -29,6 +29,7 @@
 
 - [Projects Repository](https://github.com/Arch-Devlin/CS50x)
 - [Final Project Repository](https://github.com/Arch-Devlin/CS50x_Final_Project)
+- [Video Demo](https://youtu.be/7ArAJx442_o)
 
 ---
 
